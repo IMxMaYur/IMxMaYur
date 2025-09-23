@@ -1,7 +1,5 @@
 # 💫 About Me:
-"Aspiring AI & ML Engineer | 2nd Year B.E. Student in Artificial Intelligence and Data Science | Passionate about Web Development (Frontend) | Proficient in Python, JavaScript, HTML, CSS, and DSA"
-
-"Aspiring AI & ML Engineer | B.E. Student in Artificial Intelligence and Data Science | Passionate about Full Stack Developer | Proficient in Python, JavaScript, HTML/CSS, DBMS, AWS, Java and DSA"
+"AI & ML Engineer | Full-Stack Developer | Tech Innovator | B.E. in AI & Data Science | Skilled in Python, ML, DL, JS, SQL, Java, DSA, Cloud | Passionate about building scalable and intelligent solutions."
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.giri.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurgiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IMxARTIST) 
