@@ -1,8 +1,8 @@
 # 💫 About Me:
-"AI & ML Engineer | Full-Stack Developer | Tech Innovator | B.E. in AI & Data Science | Skilled in Python, ML, DL, JS, SQL, Java, DSA, Cloud | Passionate about building scalable and intelligent solutions."
+"AI & ML Engineer | Full-Stack Developer | Tech Innovator | B.E. in AI & Data Science | Skilled in Python, Machine Learning, Deep Learning, JavaScript, SQL, Java, DSA, Cloud | Passionate about building scalable and intelligent solutions."
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.giri.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurgiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IMxARTIST) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.giri.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurgiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/girimayur_) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imxmayur&label=Profile%20views&color=0e75b6&style=flat" alt="imxmayur" /> </p>
 
