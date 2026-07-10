@@ -133,6 +133,10 @@ Drag-and-drop board built for production-grade frontend proof.
 
 <div align="center">
 
+## 🚀 Google Ranking
+
+![Google Ranking](assets/google-rank.jpeg)
+
 ### 💬 Daily Dose of Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
