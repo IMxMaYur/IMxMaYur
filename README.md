@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 "AI & ML Engineer | Full-Stack Developer | Tech Innovator | B.E. in AI & Data Science | Skilled in Python, Machine Learning, Deep Learning, JavaScript, SQL, Java, DSA, Cloud | Passionate about building scalable and intelligent solutions."
 
 ## 🌐 Socials:
@@ -15,9 +15,6 @@
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IMxMaYur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IMxMaYur&icon=0&color=0)](https://visitcount.itsvg.in)
