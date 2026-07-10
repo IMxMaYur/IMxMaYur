@@ -119,14 +119,6 @@ Drag-and-drop board built for production-grade frontend proof.
 
 </div>
 
-### 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IMxMaYur&theme=radical&no-frame=true&margin-w=8&row=1" />
-
-</div>
-
 ### 🐍 Web-Swinging Through Contributions
 
 <div align="center">
