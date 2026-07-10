@@ -129,41 +129,6 @@ Drag-and-drop board built for production-grade frontend proof.
 
 </div>
 
-<details>
-<summary>⚙️ <b>Enable the animated snake</b> (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in your `IMxMaYur/IMxMaYur` profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: IMxMaYur
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push once, wait a minute, and the snake image above will render your real contribution graph as an animated game.
-</details>
-
 ---
 
 <div align="center">
