@@ -1,22 +1,191 @@
-# About Me:
-"AI & ML Engineer | Full-Stack Developer | Tech Innovator | B.E. in AI & Data Science | Skilled in Python, Machine Learning, Deep Learning, JavaScript, SQL, Java, DSA, Cloud | Passionate about building scalable and intelligent solutions."
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.giri.777158) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayurgiri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurgiri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/girimayur_) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:8b0000,100:e62429&height=230&section=header&text=MAYUR%20GIRI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imxmayur&label=Profile%20views&color=0e75b6&style=flat" alt="imxmayur" /> </p>
+<a href="https://linkedin.com/in/mayurgiri">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=E62429&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Neighborhood-Friendly+Code+Slinger;Building+with+great+responsibility+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IMxMaYur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IMxMaYur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IMxMaYur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Static Badge](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-e62429?style=for-the-badge&labelColor=0a0a0a)
+![Static Badge](https://img.shields.io/badge/ORIGIN-Mumbai%2C%20India-e62429?style=for-the-badge&labelColor=0a0a0a)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e62429?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/mayurgiri)
+[![X](https://img.shields.io/badge/X-e62429?style=for-the-badge&logo=X&logoColor=white&labelColor=0a0a0a)](https://x.com/girimayur_)
+[![Instagram](https://img.shields.io/badge/Instagram-e62429?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://instagram.com/mayurgiri_)
+
+<img src="https://komarev.com/ghpvc/?username=imxmayur&label=WEB-SHOOTERS+FIRED&color=e62429&style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## 🏙️ Origin Story
+
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+
+Every hero has one. Mine starts in a classroom, not a lab accident.
+
+- 🎓 May 2026 graduate — **B.E. in Artificial Intelligence & Data Science**, University of Mumbai (Terna Engineering College)
+- 🕸️ Obsessed with **NLP/LLM systems, cybersecurity, and full-stack AI** — my version of web-slinging
+- ⚖️ I build things that are *measurable*. No inflated buzzwords, no "great responsibility" without the receipts
+- 🌆 Currently swinging between **React internals, state management, and accessibility** to level up frontend skills
+- 📬 Drop a signal on [LinkedIn](https://linkedin.com/in/mayurgiri) — I answer faster than a spider-sense ping
+
+<br clear="right"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IMxMaYur&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🕸️ Powers & Abilities *(Featured Projects)*
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Insider Threat Detection System
+*Catching threats hiding in plain sight.*
+
+Hybrid ensemble anomaly detection — **Isolation Forest, PyTorch Autoencoder, LSTM, GraphSAGE (GNN)**.
+
+**`ROC-AUC 0.91`** &nbsp;|&nbsp; **`Precision 88.4%`**
+
+![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=e62429) ![PyTorch](https://img.shields.io/badge/-PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=e62429) ![FastAPI](https://img.shields.io/badge/-FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=e62429)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 Multi-Document RAG Pipeline
+*Legal knowledge, retrieved with precision.*
+
+RAG pipeline evaluated with **RAGAS** metrics, not vibes.
+
+**`LangChain`** &nbsp;|&nbsp; **`Qdrant`** &nbsp;|&nbsp; **`Groq API`**
+
+![LangChain](https://img.shields.io/badge/-LangChain-0a0a0a?style=flat-square&logoColor=e62429) ![Qdrant](https://img.shields.io/badge/-Qdrant-0a0a0a?style=flat-square&logoColor=e62429) ![Streamlit](https://img.shields.io/badge/-Streamlit-0a0a0a?style=flat-square&logo=streamlit&logoColor=e62429)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Multi-Agent RAG System
+*A team of agents — like Spider-people across the multiverse.*
+
+**LangGraph** orchestration with corrective feedback loops.
+
+**`Railway`** &nbsp;|&nbsp; **`Vercel`** &nbsp;|&nbsp; **`Qdrant Cloud`**
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-0a0a0a?style=flat-square&logoColor=e62429) ![Vercel](https://img.shields.io/badge/-Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=e62429)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔴 FlowPilot — Kanban SaaS
+*Keeping the city's chaos organized.*
+
+Drag-and-drop board built for production-grade frontend proof.
+
+**`dnd-kit`** &nbsp;|&nbsp; **`TanStack Query`** &nbsp;|&nbsp; **`Zustand`**
+
+![React](https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react&logoColor=e62429) ![Zustand](https://img.shields.io/badge/-Zustand-0a0a0a?style=flat-square&logoColor=e62429)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🕷️ The Suit *(Tech Stack)*
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,html,css,react,nextjs,tailwind,nodejs,express,flask,django,aws,gcp,firebase,mongodb,mysql,figma,postman&perline=7" />
+
+</div>
+
+---
+
+## 📡 Daily Bugle Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IMxMaYur&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=e62429&icon_color=e62429&text_color=f5f5f5&border_radius=12" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IMxMaYur&theme=radical&hide_border=true&background=0a0a0a&stroke=e62429&ring=e62429&fire=e62429&currStreakLabel=e62429&currStreakNum=f5f5f5&sideNums=f5f5f5&sideLabels=f5f5f5&dates=cccccc&border_radius=12" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMxMaYur&theme=radical&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e62429&text_color=f5f5f5&border_radius=12" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IMxMaYur&hide_border=true&bg_color=0a0a0a&color=f5f5f5&line=e62429&point=ffffff&area=true&area_color=e62429" width="100%"/>
+
+</div>
+
+### 🏆 Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IMxMaYur&theme=radical&no-frame=true&margin-w=8&row=1" />
+
+</div>
+
+### 🐍 Web-Swinging Through Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IMxMaYur/IMxMaYur/output/snake.svg" width="100%"/>
+
+<sub>*(animated contribution snake — activate with the GitHub Action snippet below)*</sub>
+
+</div>
+
+<details>
+<summary>⚙️ <b>Enable the animated snake</b> (click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in your `IMxMaYur/IMxMaYur` profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: IMxMaYur
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Push once, wait a minute, and the snake image above will render your real contribution graph as an animated game.
+</details>
+
+---
+
+<div align="center">
+
+### 💬 Daily Dose of Wisdom
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://visitcount.itsvg.in/api?id=IMxMaYur&icon=0&color=e62429" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+**with great code comes great responsibility 🕷️**
+
+</div>
