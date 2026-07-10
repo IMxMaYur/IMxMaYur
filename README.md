@@ -137,9 +137,7 @@ Drag-and-drop board built for production-grade frontend proof.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://visitcount.itsvg.in/api?id=IMxMaYur&icon=0&color=e62429" />
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,100:0a0a0a&height=120&section=footer" width="100%"/>
 
