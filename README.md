@@ -133,7 +133,7 @@ Drag-and-drop board built for production-grade frontend proof.
 
 <div align="center">
 
-## 🚀 Google Ranking
+## 🚀 Google Ranking of portfolio site
 
 ![Google Ranking](assets/google-rank.jpeg)
 
